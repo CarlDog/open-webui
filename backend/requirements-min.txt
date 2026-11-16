@@ -13,8 +13,8 @@ cryptography
 bcrypt==5.0.0
 argon2-cffi==25.1.0
 PyJWT[crypto]==2.13.0
-authlib==1.7.2
-joserfc==1.7.4
+authlib==1.9.1
+joserfc==1.7.6
 
 requests==2.34.2
 aiohttp==3.13.5 # do not update to 3.13.3 - broken
@@ -42,7 +42,7 @@ RestrictedPython==8.2
 loguru==0.7.3
 asgiref==3.11.1
 
-mcp==1.27.2
+mcp==1.30.0
 openai
 
 langchain==1.2.10
